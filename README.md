@@ -1,1 +1,1 @@
-# rerver.ga
+# Rerver - A Minecraft Server Official Website
